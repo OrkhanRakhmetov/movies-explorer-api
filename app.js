@@ -11,7 +11,7 @@ const { requestLogger, errorLogger } = require('./middlewares/logger');
 const cors = require('./middlewares/cors');
 const limiter = require('./middlewares/limiter');
 
-const { PORT = 3000, DB_ADDRESS = 'mongodb://127.0.0.1:27017/moviedb' } = process.env;
+const { PORT = 3000, DB_ADDRESS = 'mongodb://127.0.0.1:27017/bitfilmsdb' } = process.env;
 
 const app = express();
 
