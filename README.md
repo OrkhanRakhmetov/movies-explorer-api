@@ -1,11 +1,11 @@
 # movies-explorer-api
-Репозиторий для приложения проекта Movies, включающий фронтенд и бэкенд части приложения со следующими возможностями: авторизации и регистрации пользователей, операции с карточками и пользователями. Бэкенд расположите в директории backend/, а фронтенд - в frontend/.
+Репозиторий для приложения проекта Movies, включающий бэкенд приложения.
 
-Адрес репозитория: https://github.com/OrkhanRakhmetov/react-mesto-api-full-gha
+Адрес репозитория: https://github.com/OrkhanRakhmetov/movies-explorer-api
 
 Ссылки на проект
-IP 51.250.2.9
+IP 158.160.36.19
 
-Frontend https://mesto-15.nomoredomains.rocks
+Frontend https://movie.front.nomoreparties.sbs
 
-Backend https://api.mesto-15.nomoredomains.rocks
+Backend https://movie.ora.nomoreparties.sbs
